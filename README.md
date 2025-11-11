@@ -1,4 +1,6 @@
-## Hi there 👋
+🔭 Mostly working on full-stack webapps and nix based system configurations.
+
+🌱 I’m currently learning deploying and self-hosting web apps.
 
 <!--
 **benedictdaske/benedictdaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
