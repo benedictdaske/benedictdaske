@@ -1,6 +1,9 @@
-🔭 Mostly working on full-stack webapps and nix based system configurations.
+🔭 Mostly working on:
+- **Full-Stack Webapps** - developing a session planning tool for climbers (and most other people too)
+- **Nix-based System Configuration** - creating a modular, clean and well-documented Nix config that allows starters to create a plug-and-play Nix Darwin or NixOS experience
 
-🌱 I’m currently learning deploying and self-hosting web apps.
+🌱 I’m currently learning:
+- **Webapp Deployment & Self-Hosting** - developing and hosting [nextsesh](https://nextsesh.date)
 
 <!--
 **benedictdaske/benedictdaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
