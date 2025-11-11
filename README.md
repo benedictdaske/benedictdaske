@@ -1,4 +1,5 @@
 🔭 Mostly working on:
+- **Hasso-Plattner Institute Potsdam** - B.Sc. student in computer science
 - **Full-Stack Webapps** - developing a session planning tool for climbers (and most other people too)
 - **Nix-based System Configuration** - creating a modular, clean and well-documented Nix config that allows starters to create a plug-and-play Nix Darwin or NixOS experience
 
